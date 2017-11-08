@@ -1,0 +1,2648 @@
+{
+  "settings": {
+    "name": "Site-11-07_1002",
+    "currentPage": "page4.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.3.0",
+    "uniqCompNum": 44,
+    "versionPublish": "4.3.0",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "澎湖縣106年度風櫃國小環境教育網",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">環境教育中長期實施計畫</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">106年環境教育校內獎勵表揚</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">環境教育認證人員名單詳實登載異動情形</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">環境教育人員認證</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">活動成果</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fkps</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2750-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "澎湖縣106年度風櫃國小環境教育網",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "澎湖縣風櫃國民小學環境教育中長期實施計畫&nbsp;",
+          "text": "<span style=\"font-style: normal;\">壹、 計畫依據\n<br>\n<br>一、 行政院國家永續發展委會「永續發展行動計畫」。\n<br>\n<br>二、 教育部、環保署「加強學校環境教育三年實施計畫」。\n<br>\n<br>三、 本校校務會議決議。\n<br>\n<br>貳、 計畫目的\n<br>\n<br>一、以教育的方式促使師生與家長明瞭全球及台灣資源的有限性，體認到防災議題、永續發展與環境教育的急迫性和重要性。\n<br>\n<br>二、積極推動海洋環境教育，培養學生珍惜、保護及改善海洋環境所需知識、態度、技術及價值觀。  \n<br>\n<br>\n<br>三、倡導珍惜資源、實踐節約能源、惜物愛物及減廢生活方式之知識與能力，並培養學生關懷環境的意識與行為。\n<br>\n<br>四、建立學生環境倫理觀念與人人參與環保的共識，促使學生產生珍愛生態思維與保護環境行動。\n<br>\n<br>\n<br>五、將防災議題、永續發展與環境保育的理念融入於學校本位課程中，透過領域教學與研習進修活動，促進師生與家長了解人與環境之間的關係，增進其知識、態度、技能及價值觀，進而實踐於日常生活中。\n<br>\n<br>六、兼顧人文理念和科學方法，致力於合理運用環境資源及加強保育自然生態，並預防災害發生，改善校園的建築、設施、植裁、廢棄物處理方式，並配合學校課程規劃生態教學區域，以促進校園的永續發展。\n<br>\n<br>參、 實施原則\n<br>\n<br>一、成立推動組織：成立本校環境教育推行委員會，由校長擔任召集人主導學校永續規劃。\n<br>\n<br>二、長遠通盤規劃：以三年期程為目標，以循序漸進為原則，全面考量綠色海洋學校的四大面向。\n<br>\n<br>三、 處室協調合作：原則上，由校長主導，總務處統籌「校園環境總體計畫」；教導處主導「校園環境教學」、「生活環保實務」；總務處主導「校園空間建築與環境管理」。各處室間充分溝通，彼此支援。\n<br>\n<br>四、上下並行推廣：由行政部門策劃永續發展與環境教育的計畫與活動，同時鼓勵、推動老師們自發性的研究與教學，相互激盪出創意，協商出最具永續意義的教育活動與教學。\n<br>\n<br>肆、 推動環境教育委員會\n<br>\n<br>召集人\t校 長\n<br>\n<br>綜理全校校園環境教育之督導與考核。\n<br>\n<br>副召集人\t家長會長\n<br>\n<br>協助總理全校校園環境教育之督導與考核。\n<br>\n<br>副召集人\t教導主任\n<br>\n<br>1.訂定推動環境教育實施計畫。\n<br>\n<br>2.負責環境教育融入課程及本位課程之策劃、教師之聘請，並督導教案之製作、觀摩與推行。\n<br>\n<br>3.規劃、辦理環境教育活動。\n<br>\n<br>4.辦理教師環境教育研習及聘請專家為全校師生做有關之專題演講。\n<br>\n<br>副召集人\t總務主任\n<br>\n<br>1.推動「辦公室做環保」、「教室做環保」。\n<br>\n<br>2.定期進行環境稽核。\n<br>\n<br>3.負責節約能源計畫推動。\n<br>\n<br>4.校園美化綠化。\n<br>\n<br>5.協調並結合社區資源辦理環境教育活動。\n<br>\n<br>執行秘書\t訓育組長\n<br>\n<br>1.執行推動學校環境教育工作。\n<br>\n<br>2.辦理垃圾分類資源回收。\n<br>\n<br>3.環境教育資訊網運作。\n<br>\n<br>4.聯繫相關機構提供諮詢服務等事宜。\n<br>\n<br>5.辦理環境教育相關宣導活動。\n<br>\n<br>6.提供教師有關的環境教育新資料。\n<br>\n<br>7.辦理環境教育戶外教學及課外活動。\n<br>\n<br>8.規劃環保小尖兵活動及環境教育獎勵工作。\n<br>\n<br>委員\t教學組長\n<br>\n<br>1.舉辦各項相關學藝競賽。\n<br>\n<br>2.蒐集相關書刊、圖片、錄影帶、教學光碟，且由專人管理，鼓勵老師借用。\n<br>\n<br>3.負責永續校園與環境教育課程融入各科教學活動之推行。\n<br>\n<br>4.負責永續校園與環境教育教材教具之購置支援。\n<br>\n<br> 全體教師\n<br>\n<br>1.配合教導處實施垃圾分類資源回收等相關活動。\n<br>\n<br>2.多元教學，增加戶外教學機會。\n<br>\n<br>3.指導學生節約能源之知能及行為習慣之養成。\n<br>\n<br>4.隨時注意學生節約能源，隨時輔導矯正。\n<br>\n<br>5.配合教學，實施環境教育聯絡教學。\n<br>\n<br>6.身體力行，做為學生環境教育之表率。\n<br>\n<br>7.利用家庭訪視，向家長宣導環境教育工作，以促進其合作。\n<br>\n<br>伍、 年度推行重點\n<br>\n<br>年度\t校園環境教學、生活環保實務\t校園空間建築與環境管理\n<br>\n<br>104年\t1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.規畫檢討修訂本縣海洋自然人文生態環境遊學路線及遊學課程。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生認養校園植物。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n<br>\n<br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>105年\t1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.規畫檢討修訂本縣海洋自然人文生態環境遊學路線及遊學課程。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生認養校園植物。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n<br>\n<br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>106年\n<br>\n<br>1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.配合臺美生態學校聯盟推廣計畫，建立生態行動團隊，連結生態環境，並融入各領域領域教學。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生實施校園植栽。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n<br>\n<br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>陸、 預期效果\n<br>\n<br>一、配合學校願景、課程目標，透過學校師生及家長的參與，共創符合永續發展、安全舒適的校園環境。\n<br>\n<br>二、透過學校執行環境創意教學，增進學生對環境覺知、技能、行動及價值觀。\n<br>\n<br>三、全校師生能主動積極推動校園環境清潔及保護工作，增進學校成員環保行動力。\n<br>\n<br>四、了解並關切資源與生活環境間之關係，進而成為維護生態平衡及環境品質之實踐者，以達到資源永續利用，並使世代享有安全與健康之生活環境。\n<br>\n<br>五、培養學生愛護環境、欣賞自然的情操，及珍惜資源、節約能源、惜福愛物的生活習慣 。\n<br>\n<br>六、輔導學生重視環保，將環保成為生活的一小部份，期能人人做環保、時時做環保、處處做環保，成為環保小尖兵，以影響家庭及社區。\n<br>\n<br>捌、 本計畫呈校長核示許可後實施，修正時亦同。\n<br>\n澎湖縣風櫃國民小學環境教育中長期實施計畫\n<br>\n<br>壹、 計畫依據\n<br>\n<br>一、 行政院國家永續發展委會「永續發展行動計畫」。\n<br>\n<br>二、 教育部、環保署「加強學校環境教育三年實施計畫」。\n<br>\n<br>三、 本校校務會議決議。\n<br>\n<br>貳、 計畫目的\n<br>\n<br>一、以教育的方式促使師生與家長明瞭全球及台灣資源的有限性，體認到防災議題、永續發展與環境教育的急迫性和重要性。\n<br>\n<br>二、積極推動海洋環境教育，培養學生珍惜、保護及改善海洋環境所需知識、態度、技術及價值觀。  \n<br>\n<br>\n<br>三、倡導珍惜資源、實踐節約能源、惜物愛物及減廢生活方式之知識與能力，並培養學生關懷環境的意識與行為。\n<br>\n<br>四、建立學生環境倫理觀念與人人參與環保的共識，促使學生產生珍愛生態思維與保護環境行動。\n<br>\n<br>\n<br>五、將防災議題、永續發展與環境保育的理念融入於學校本位課程中，透過領域教學與研習進修活動，促進師生與家長了解人與環境之間的關係，增進其知識、態度、技能及價值觀，進而實踐於日常生活中。\n<br>\n<br>六、兼顧人文理念和科學方法，致力於合理運用環境資源及加強保育自然生態，並預防災害發生，改善校園的建築、設施、植裁、廢棄物處理方式，並配合學校課程規劃生態教學區域，以促進校園的永續發展。\n<br>\n<br>參、 實施原則\n<br>\n<br>一、成立推動組織：成立本校環境教育推行委員會，由校長擔任召集人主導學校永續規劃。\n<br>\n<br>二、長遠通盤規劃：以三年期程為目標，以循序漸進為原則，全面考量綠色海洋學校的四大面向。\n<br>\n<br>三、 處室協調合作：原則上，由校長主導，總務處統籌「校園環境總體計畫」；教導處主導「校園環境教學」、「生活環保實務」；總務處主導「校園空間建築與環境管理」。各處室間充分溝通，彼此支援。\n<br>\n<br>四、上下並行推廣：由行政部門策劃永續發展與環境教育的計畫與活動，同時鼓勵、推動老師們自發性的研究與教學，相互激盪出創意，協商出最具永續意義的教育活動與教學。\n<br>\n<br>肆、 推動環境教育委員會\n<br>\n<br>召集人\t校 長\n<br>\n<br>綜理全校校園環境教育之督導與考核。\n<br>\n<br>副召集人\t家長會長\n<br>\n<br>協助總理全校校園環境教育之督導與考核。\n<br>\n<br>副召集人\t教導主任\n<br>\n<br>1.訂定推動環境教育實施計畫。\n<br>\n<br>2.負責環境教育融入課程及本位課程之策劃、教師之聘請，並督導教案之製作、觀摩與推行。\n<br>\n<br>3.規劃、辦理環境教育活動。\n<br>\n<br>4.辦理教師環境教育研習及聘請專家為全校師生做有關之專題演講。\n<br>\n<br>副召集人\t總務主任\n<br>\n<br>1.推動「辦公室做環保」、「教室做環保」。\n<br>\n<br>2.定期進行環境稽核。\n<br>\n<br>3.負責節約能源計畫推動。\n<br>\n<br>4.校園美化綠化。\n<br>\n<br>5.協調並結合社區資源辦理環境教育活動。\n<br>\n<br>執行秘書\t訓育組長\n<br>\n<br>1.執行推動學校環境教育工作。\n<br>\n<br>2.辦理垃圾分類資源回收。\n<br>\n<br>3.環境教育資訊網運作。\n<br>\n<br>4.聯繫相關機構提供諮詢服務等事宜。\n<br>\n<br>5.辦理環境教育相關宣導活動。\n<br>\n<br>6.提供教師有關的環境教育新資料。\n<br>\n<br>7.辦理環境教育戶外教學及課外活動。\n<br>\n<br>8.規劃環保小尖兵活動及環境教育獎勵工作。\n<br>\n<br>委員\t教學組長\n<br>\n<br>1.舉辦各項相關學藝競賽。\n<br>\n<br>2.蒐集相關書刊、圖片、錄影帶、教學光碟，且由專人管理，鼓勵老師借用。\n<br>\n<br>3.負責永續校園與環境教育課程融入各科教學活動之推行。\n<br>\n<br>4.負責永續校園與環境教育教材教具之購置支援。\n<br>\n<br> 全體教師\n<br>\n<br>1.配合教導處實施垃圾分類資源回收等相關活動。\n<br>\n<br>2.多元教學，增加戶外教學機會。\n<br>\n<br>3.指導學生節約能源之知能及行為習慣之養成。\n<br>\n<br>4.隨時注意學生節約能源，隨時輔導矯正。\n<br>\n<br>5.配合教學，實施環境教育聯絡教學。\n<br>\n<br>6.身體力行，做為學生環境教育之表率。\n<br>\n<br>7.利用家庭訪視，向家長宣導環境教育工作，以促進其合作。\n<br>\n<br>伍、 年度推行重點\n<br>\n<br>年度\t校園環境教學、生活環保實務\t校園空間建築與環境管理\n<br>\n<br>104年</span><span style=\"font-style: normal;\">年度\t</span><br><span style=\"font-style: normal;\">校園環境教學</span><br><span style=\"font-style: normal;\">\t1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.規畫檢討修訂本縣海洋自然人文生態環境遊學路線及遊學課程。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生認養校園植物。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。</span><br><span style=\"font-style: normal;\">\n<br>\n生活環保實務\t校園空間建築與環境管理&nbsp;</span><br><span style=\"font-style: normal;\">1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>105年</span><br>\t<span style=\"font-style: normal;\">校園環境教學</span><br><span style=\"font-style: normal;\">1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.規畫檢討修訂本縣海洋自然人文生態環境遊學路線及遊學課程。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生認養校園植物。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n</span><br><span style=\"font-style: normal;\"><br>\n生活環保實務\t校園空間建築與環境管理</span>&nbsp;<span style=\"font-style: normal;\"><br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>106年\n<br>\n校園環境教學<br>1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.配合臺美生態學校聯盟推廣計畫，建立生態行動團隊，連結生態環境，並融入各領域領域教學。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生實施校園植栽。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n<br>\n</span><br><span style=\"font-style: normal;\">生活環保實務\t校園空間建築與環境管理<br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>陸、 預期效果\n<br>\n<br>一、配合學校願景、課程目標，透過學校師生及家長的參與，共創符合永續發展、安全舒適的校園環境。\n<br>\n<br>二、透過學校執行環境創意教學，增進學生對環境覺知、技能、行動及價值觀。\n<br>\n<br>三、全校師生能主動積極推動校園環境清潔及保護工作，增進學校成員環保行動力。\n<br>\n<br>四、了解並關切資源與生活環境間之關係，進而成為維護生態平衡及環境品質之實踐者，以達到資源永續利用，並使世代享有安全與健康之生活環境。\n<br>\n<br>五、培養學生愛護環境、欣賞自然的情操，及珍惜資源、節約能源、惜福愛物的生活習慣 。\n<br>\n<br>六、輔導學生重視環保，將環保成為生活的一小部份，期能人人做環保、時時做環保、處處做環保，成為環保小尖兵，以影響家庭及社區。\n<br>\n<br>捌、 本計畫呈校長核示許可後實施，修正時亦同。\n<br></span>\n<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-4"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.4",
+            "googleMap": {
+              "address": "澎湖縣馬公市風櫃里66號",
+              "placeId": "ChIJjTkjMptQbDQRIsXgkbqrwTc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>澎湖縣馬公市風櫃里66號<br><br><br>\n<strong>Contacts</strong><br>\nFb:https://www.facebook.com/penghufkps/<br>\nPhone: (06) 9951280<br><br>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-3"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/penghufkps/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC69TV3DEhH7MbRbWVWJRkPA?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-o"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "環境教育中長期實施計畫",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-540x780.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BACKGROUND VIDEO",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-573x717.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-m"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">環境教育中長期實施計畫</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">106年環境教育校內獎勵表揚</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">環境教育認證人員名單詳實登載異動情形</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">環境教育人員認證</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">活動成果</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fkps</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "106年度風櫃國小環境教育計畫",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "節能減碳執行計畫",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "環保工作小組會議紀錄(2月)",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "環保工作小組會議紀錄(8月)",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "年度執行成果檢討紀錄",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/11nPYcSjdlAlDy42r8BQzKzQMPse1AbEK/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1CSW3H3MBNFfnxibyb57CaxOnWPhwNbmt/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1hq3fuFSAN38D8l5EInSOWYvhpftxSBtY/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1uqu0TgDWaX6XlkqxL5R7wmu1f7D9O53g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1CyKDZOV0NorJFrtrCRPxluc_1y7E-R51\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-a",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            },
+            ".mbr-section-lead SPAN": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "澎湖縣風櫃國民小學環境教育中長期實施計畫&nbsp;",
+          "text": "<span style=\"font-style: normal;\">壹、 計畫依據\n<br>\n<br>一、 行政院國家永續發展委會「永續發展行動計畫」。\n<br>\n<br>二、 教育部、環保署「加強學校環境教育三年實施計畫」。\n<br>\n<br>三、 本校校務會議決議。\n<br>\n<br>貳、 計畫目的\n<br>\n<br>一、以教育的方式促使師生與家長明瞭全球及台灣資源的有限性，體認到防災議題、永續發展與環境教育的急迫性和重要性。\n<br>\n<br>二、積極推動海洋環境教育，培養學生珍惜、保護及改善海洋環境所需知識、態度、技術及價值觀。  \n<br>\n<br>\n<br>三、倡導珍惜資源、實踐節約能源、惜物愛物及減廢生活方式之知識與能力，並培養學生關懷環境的意識與行為。\n<br>\n<br>四、建立學生環境倫理觀念與人人參與環保的共識，促使學生產生珍愛生態思維與保護環境行動。\n<br>\n<br>\n<br>五、將防災議題、永續發展與環境保育的理念融入於學校本位課程中，透過領域教學與研習進修活動，促進師生與家長了解人與環境之間的關係，增進其知識、態度、技能及價值觀，進而實踐於日常生活中。\n<br>\n<br>六、兼顧人文理念和科學方法，致力於合理運用環境資源及加強保育自然生態，並預防災害發生，改善校園的建築、設施、植裁、廢棄物處理方式，並配合學校課程規劃生態教學區域，以促進校園的永續發展。\n<br>\n<br>參、 實施原則\n<br>\n<br>一、成立推動組織：成立本校環境教育推行委員會，由校長擔任召集人主導學校永續規劃。\n<br>\n<br>二、長遠通盤規劃：以三年期程為目標，以循序漸進為原則，全面考量綠色海洋學校的四大面向。\n<br>\n<br>三、 處室協調合作：原則上，由校長主導，總務處統籌「校園環境總體計畫」；教導處主導「校園環境教學」、「生活環保實務」；總務處主導「校園空間建築與環境管理」。各處室間充分溝通，彼此支援。\n<br>\n<br>四、上下並行推廣：由行政部門策劃永續發展與環境教育的計畫與活動，同時鼓勵、推動老師們自發性的研究與教學，相互激盪出創意，協商出最具永續意義的教育活動與教學。\n<br>\n<br>肆、 推動環境教育委員會\n<br>\n<br>召集人\t校 長\n<br>\n<br>綜理全校校園環境教育之督導與考核。\n<br>\n<br>副召集人\t家長會長\n<br>\n<br>協助總理全校校園環境教育之督導與考核。\n<br>\n<br>副召集人\t教導主任\n<br>\n<br>1.訂定推動環境教育實施計畫。\n<br>\n<br>2.負責環境教育融入課程及本位課程之策劃、教師之聘請，並督導教案之製作、觀摩與推行。\n<br>\n<br>3.規劃、辦理環境教育活動。\n<br>\n<br>4.辦理教師環境教育研習及聘請專家為全校師生做有關之專題演講。\n<br>\n<br>副召集人\t總務主任\n<br>\n<br>1.推動「辦公室做環保」、「教室做環保」。\n<br>\n<br>2.定期進行環境稽核。\n<br>\n<br>3.負責節約能源計畫推動。\n<br>\n<br>4.校園美化綠化。\n<br>\n<br>5.協調並結合社區資源辦理環境教育活動。\n<br>\n<br>執行秘書\t訓育組長\n<br>\n<br>1.執行推動學校環境教育工作。\n<br>\n<br>2.辦理垃圾分類資源回收。\n<br>\n<br>3.環境教育資訊網運作。\n<br>\n<br>4.聯繫相關機構提供諮詢服務等事宜。\n<br>\n<br>5.辦理環境教育相關宣導活動。\n<br>\n<br>6.提供教師有關的環境教育新資料。\n<br>\n<br>7.辦理環境教育戶外教學及課外活動。\n<br>\n<br>8.規劃環保小尖兵活動及環境教育獎勵工作。\n<br>\n<br>委員\t教學組長\n<br>\n<br>1.舉辦各項相關學藝競賽。\n<br>\n<br>2.蒐集相關書刊、圖片、錄影帶、教學光碟，且由專人管理，鼓勵老師借用。\n<br>\n<br>3.負責永續校園與環境教育課程融入各科教學活動之推行。\n<br>\n<br>4.負責永續校園與環境教育教材教具之購置支援。\n<br>\n<br> 全體教師\n<br>\n<br>1.配合教導處實施垃圾分類資源回收等相關活動。\n<br>\n<br>2.多元教學，增加戶外教學機會。\n<br>\n<br>3.指導學生節約能源之知能及行為習慣之養成。\n<br>\n<br>4.隨時注意學生節約能源，隨時輔導矯正。\n<br>\n<br>5.配合教學，實施環境教育聯絡教學。\n<br>\n<br>6.身體力行，做為學生環境教育之表率。\n<br>\n<br>7.利用家庭訪視，向家長宣導環境教育工作，以促進其合作。\n<br>\n<br>伍、 年度推行重點\n<br>\n<br>年度\t校園環境教學、生活環保實務\t校園空間建築與環境管理\n<br>\n<br>104年\t1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.規畫檢討修訂本縣海洋自然人文生態環境遊學路線及遊學課程。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生認養校園植物。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n<br>\n<br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>105年\t1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.規畫檢討修訂本縣海洋自然人文生態環境遊學路線及遊學課程。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生認養校園植物。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n<br>\n<br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>106年\n<br>\n<br>1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.配合臺美生態學校聯盟推廣計畫，建立生態行動團隊，連結生態環境，並融入各領域領域教學。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生實施校園植栽。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n<br>\n<br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>陸、 預期效果\n<br>\n<br>一、配合學校願景、課程目標，透過學校師生及家長的參與，共創符合永續發展、安全舒適的校園環境。\n<br>\n<br>二、透過學校執行環境創意教學，增進學生對環境覺知、技能、行動及價值觀。\n<br>\n<br>三、全校師生能主動積極推動校園環境清潔及保護工作，增進學校成員環保行動力。\n<br>\n<br>四、了解並關切資源與生活環境間之關係，進而成為維護生態平衡及環境品質之實踐者，以達到資源永續利用，並使世代享有安全與健康之生活環境。\n<br>\n<br>五、培養學生愛護環境、欣賞自然的情操，及珍惜資源、節約能源、惜福愛物的生活習慣 。\n<br>\n<br>六、輔導學生重視環保，將環保成為生活的一小部份，期能人人做環保、時時做環保、處處做環保，成為環保小尖兵，以影響家庭及社區。\n<br>\n<br>捌、 本計畫呈校長核示許可後實施，修正時亦同。\n<br>\n澎湖縣風櫃國民小學環境教育中長期實施計畫\n<br>\n<br>壹、 計畫依據\n<br>\n<br>一、 行政院國家永續發展委會「永續發展行動計畫」。\n<br>\n<br>二、 教育部、環保署「加強學校環境教育三年實施計畫」。\n<br>\n<br>三、 本校校務會議決議。\n<br>\n<br>貳、 計畫目的\n<br>\n<br>一、以教育的方式促使師生與家長明瞭全球及台灣資源的有限性，體認到防災議題、永續發展與環境教育的急迫性和重要性。\n<br>\n<br>二、積極推動海洋環境教育，培養學生珍惜、保護及改善海洋環境所需知識、態度、技術及價值觀。  \n<br>\n<br>\n<br>三、倡導珍惜資源、實踐節約能源、惜物愛物及減廢生活方式之知識與能力，並培養學生關懷環境的意識與行為。\n<br>\n<br>四、建立學生環境倫理觀念與人人參與環保的共識，促使學生產生珍愛生態思維與保護環境行動。\n<br>\n<br>\n<br>五、將防災議題、永續發展與環境保育的理念融入於學校本位課程中，透過領域教學與研習進修活動，促進師生與家長了解人與環境之間的關係，增進其知識、態度、技能及價值觀，進而實踐於日常生活中。\n<br>\n<br>六、兼顧人文理念和科學方法，致力於合理運用環境資源及加強保育自然生態，並預防災害發生，改善校園的建築、設施、植裁、廢棄物處理方式，並配合學校課程規劃生態教學區域，以促進校園的永續發展。\n<br>\n<br>參、 實施原則\n<br>\n<br>一、成立推動組織：成立本校環境教育推行委員會，由校長擔任召集人主導學校永續規劃。\n<br>\n<br>二、長遠通盤規劃：以三年期程為目標，以循序漸進為原則，全面考量綠色海洋學校的四大面向。\n<br>\n<br>三、 處室協調合作：原則上，由校長主導，總務處統籌「校園環境總體計畫」；教導處主導「校園環境教學」、「生活環保實務」；總務處主導「校園空間建築與環境管理」。各處室間充分溝通，彼此支援。\n<br>\n<br>四、上下並行推廣：由行政部門策劃永續發展與環境教育的計畫與活動，同時鼓勵、推動老師們自發性的研究與教學，相互激盪出創意，協商出最具永續意義的教育活動與教學。\n<br>\n<br>肆、 推動環境教育委員會\n<br>\n<br>召集人\t校 長\n<br>\n<br>綜理全校校園環境教育之督導與考核。\n<br>\n<br>副召集人\t家長會長\n<br>\n<br>協助總理全校校園環境教育之督導與考核。\n<br>\n<br>副召集人\t教導主任\n<br>\n<br>1.訂定推動環境教育實施計畫。\n<br>\n<br>2.負責環境教育融入課程及本位課程之策劃、教師之聘請，並督導教案之製作、觀摩與推行。\n<br>\n<br>3.規劃、辦理環境教育活動。\n<br>\n<br>4.辦理教師環境教育研習及聘請專家為全校師生做有關之專題演講。\n<br>\n<br>副召集人\t總務主任\n<br>\n<br>1.推動「辦公室做環保」、「教室做環保」。\n<br>\n<br>2.定期進行環境稽核。\n<br>\n<br>3.負責節約能源計畫推動。\n<br>\n<br>4.校園美化綠化。\n<br>\n<br>5.協調並結合社區資源辦理環境教育活動。\n<br>\n<br>執行秘書\t訓育組長\n<br>\n<br>1.執行推動學校環境教育工作。\n<br>\n<br>2.辦理垃圾分類資源回收。\n<br>\n<br>3.環境教育資訊網運作。\n<br>\n<br>4.聯繫相關機構提供諮詢服務等事宜。\n<br>\n<br>5.辦理環境教育相關宣導活動。\n<br>\n<br>6.提供教師有關的環境教育新資料。\n<br>\n<br>7.辦理環境教育戶外教學及課外活動。\n<br>\n<br>8.規劃環保小尖兵活動及環境教育獎勵工作。\n<br>\n<br>委員\t教學組長\n<br>\n<br>1.舉辦各項相關學藝競賽。\n<br>\n<br>2.蒐集相關書刊、圖片、錄影帶、教學光碟，且由專人管理，鼓勵老師借用。\n<br>\n<br>3.負責永續校園與環境教育課程融入各科教學活動之推行。\n<br>\n<br>4.負責永續校園與環境教育教材教具之購置支援。\n<br>\n<br> 全體教師\n<br>\n<br>1.配合教導處實施垃圾分類資源回收等相關活動。\n<br>\n<br>2.多元教學，增加戶外教學機會。\n<br>\n<br>3.指導學生節約能源之知能及行為習慣之養成。\n<br>\n<br>4.隨時注意學生節約能源，隨時輔導矯正。\n<br>\n<br>5.配合教學，實施環境教育聯絡教學。\n<br>\n<br>6.身體力行，做為學生環境教育之表率。\n<br>\n<br>7.利用家庭訪視，向家長宣導環境教育工作，以促進其合作。\n<br>\n<br>伍、 年度推行重點\n<br>\n<br>年度\t校園環境教學、生活環保實務\t校園空間建築與環境管理\n<br>\n<br>104年</span><span style=\"font-style: normal;\">年度\t</span><br><span style=\"font-style: normal;\">校園環境教學</span><br><span style=\"font-style: normal;\">\t1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.規畫檢討修訂本縣海洋自然人文生態環境遊學路線及遊學課程。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生認養校園植物。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。</span><br><span style=\"font-style: normal;\">\n<br>\n生活環保實務\t校園空間建築與環境管理&nbsp;</span><br><span style=\"font-style: normal;\">1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>105年</span><br>\t<span style=\"font-style: normal;\">校園環境教學</span><br><span style=\"font-style: normal;\">1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.規畫檢討修訂本縣海洋自然人文生態環境遊學路線及遊學課程。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生認養校園植物。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n</span><br><span style=\"font-style: normal;\"><br>\n生活環保實務\t校園空間建築與環境管理</span>&nbsp;<span style=\"font-style: normal;\"><br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>106年\n<br>\n校園環境教學<br>1.規畫檢討修訂本校海洋環境教育計畫及課程。\n<br>\n<br>2.舉辦教師環境教育增能研習。\n<br>\n<br>3.配合鄉土特色，規劃海洋環境教育課程，進行校外教學，認識社區環境。\n<br>\n<br>4.配合臺美生態學校聯盟推廣計畫，建立生態行動團隊，連結生態環境，並融入各領域領域教學。\n<br>\n<br>5.推動海洋文學共讀。\n<br>\n<br>6.推動學生實施校園植栽。\n<br>\n<br>7.持續推動資源回收及垃圾減量。\n<br>\n<br>8.加強節約能源、省水節電的宣導。\n<br>\n</span><br><span style=\"font-style: normal;\">生活環保實務\t校園空間建築與環境管理<br> 1.加強校園及班級綠化美化。\n<br>\n<br>2.強化廁所綠美化工作。\n<br>\n<br>3.每年加強防災演練。\n<br>\n<br>4.每年落實綠色採購。\n<br>\n<br>5.加強校園節約能源\n<br>\n<br>6.規劃節約用水用電設備\n<br>\n<br>陸、 預期效果\n<br>\n<br>一、配合學校願景、課程目標，透過學校師生及家長的參與，共創符合永續發展、安全舒適的校園環境。\n<br>\n<br>二、透過學校執行環境創意教學，增進學生對環境覺知、技能、行動及價值觀。\n<br>\n<br>三、全校師生能主動積極推動校園環境清潔及保護工作，增進學校成員環保行動力。\n<br>\n<br>四、了解並關切資源與生活環境間之關係，進而成為維護生態平衡及環境品質之實踐者，以達到資源永續利用，並使世代享有安全與健康之生活環境。\n<br>\n<br>五、培養學生愛護環境、欣賞自然的情操，及珍惜資源、節約能源、惜福愛物的生活習慣 。\n<br>\n<br>六、輔導學生重視環保，將環保成為生活的一小部份，期能人人做環保、時時做環保、處處做環保，成為環保小尖兵，以影響家庭及社區。\n<br>\n<br>捌、 本計畫呈校長核示許可後實施，修正時亦同。\n<br></span>\n<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.4",
+            "googleMap": {
+              "address": "澎湖縣馬公市風櫃里66號",
+              "placeId": "ChIJjTkjMptQbDQRIsXgkbqrwTc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>澎湖縣馬公市風櫃里66號<br><br><br>\n<strong>Contacts</strong><br>\nFb:https://www.facebook.com/penghufkps/<br>\nPhone: (06) 9951280<br><br>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-9"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/penghufkps/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC69TV3DEhH7MbRbWVWJRkPA?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-n"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "106年度環境保護小組成員工作職掌",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">環境教育中長期實施計畫</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">106年環境教育校內獎勵表揚</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">環境教育認證人員名單詳實登載異動情形</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">環境教育人員認證</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">活動成果</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fkps</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2750-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "澎湖縣106年度國民中小學環境教育評鑑",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-c"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": false,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "timeout": "2",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-573x717.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-540x780.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "VIDEO SLIDE",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.4",
+            "googleMap": {
+              "address": "澎湖縣馬公市風櫃里66號",
+              "placeId": "ChIJjTkjMptQbDQRIsXgkbqrwTc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>澎湖縣馬公市風櫃里66號<br><br><br>\n<strong>Contacts</strong><br>\nFb:https://www.facebook.com/penghufkps/<br>\nPhone: (06) 9951280<br><br>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-e"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/penghufkps/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC69TV3DEhH7MbRbWVWJRkPA?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-p"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": " 風櫃國小106年環境教育校內獎勵表揚",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">環境教育中長期實施計畫</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">106年環境教育校內獎勵表揚</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">環境教育認證人員名單詳實登載異動情形</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">環境教育人員認證</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">活動成果</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fkps</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": 4,
+            "paddingBottom": "4",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": true,
+            "filter": true,
+            "images": []
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-y"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "去年度環境教育成果具體改進措施落實執行",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "&nbsp;檢討配合教育處辦理環境教育補助計畫是否依時完成",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "相關成果檢討改進紀錄",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "相關成果檢討改進紀錄",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "年度執行成果檢討紀錄",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/11cyWUfox_HcCEgwjZ-YYMxDVVO7FtDbQ/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/18GiH_s7Vd7tKdnMFxj78rN4jKQGmET9R/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1CyKDZOV0NorJFrtrCRPxluc_1y7E-R51\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.4",
+            "googleMap": {
+              "address": "澎湖縣馬公市風櫃里66號",
+              "placeId": "ChIJjTkjMptQbDQRIsXgkbqrwTc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>澎湖縣馬公市風櫃里66號<br><br><br>\n<strong>Contacts</strong><br>\nFb:https://www.facebook.com/penghufkps/<br>\nPhone: (06) 9951280<br><br>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-u"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/penghufkps/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC69TV3DEhH7MbRbWVWJRkPA?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-v"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "活動成果",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">環境教育中長期實施計畫</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">106年環境教育校內獎勵表揚</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">環境教育認證人員名單詳實登載異動情形</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">環境教育人員認證</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">活動成果</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fkps</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-z"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": "4",
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1065-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1065-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1068-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1068-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1070-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1070-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3037-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3037-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-3076-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3076-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7498-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7498-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7500-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7500-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7519-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7519-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7525-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7525-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7556-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7556-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9486-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9486-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校淨灘與本校環境巡守隊每月環境清潔日",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-305102-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-305102-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校防災演練成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-405x304.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-405x304-405x304.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校防災演練成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-455x304.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-455x304-455x304.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校防災演練成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-405x304.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-405x304-405x304.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校防災演練成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-436-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-436-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校防災演練成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-440-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-440-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校防災演練成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-452-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-452-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校防災演練成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-469-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-469-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校防災演練成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-6211-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6211-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "全校防災演練成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-6230-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6230-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "垃圾減量回收宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8740-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8740-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "垃圾減量回收宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8741-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8741-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "垃圾減量回收宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8742-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8742-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "垃圾減量回收宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8743-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8743-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "垃圾減量回收宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8745-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8745-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "垃圾減量回收宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8746-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8746-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "海洋柔珠空氣污染宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9258-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9258-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "海洋柔珠空氣污染宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9268-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9268-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "海洋柔珠空氣污染宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9270-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9270-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "海洋柔珠空氣污染宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9275-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9275-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "海洋柔珠空氣污染宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9280-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9280-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "海洋柔珠空氣污染宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9285-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9285-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 蔬食愛地球宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8680-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8680-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 蔬食愛地球宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8688-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8688-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 蔬食愛地球宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8690-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8690-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 蔬食愛地球宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8694-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8694-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 蔬食愛地球宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8699-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8699-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 蔬食愛地球宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8703-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8703-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校園植栽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1588-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1588-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校園植栽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1589-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1589-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校園植栽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1590-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1590-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校園植栽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1593-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1593-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校園植栽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1609-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1609-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校園植栽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-1638-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1638-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "辦理澎湖休憩園區花海賞花活動成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5949-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5949-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "辦理澎湖休憩園區花海賞花活動成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5967-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5967-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "辦理澎湖休憩園區花海賞花活動成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5968-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5968-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "辦理澎湖休憩園區花海賞花活動成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5986-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5986-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "辦理澎湖休憩園區花海賞花活動成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5992-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5992-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "辦理澎湖休憩園區花海賞花活動成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5996-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5996-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內柔珠宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1056-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1056-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內柔珠宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1057-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1057-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內柔珠宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1056-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1056-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內柔珠宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1057-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1057-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內柔珠宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1061-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1061-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內柔珠宣導成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc-1062-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-1062-2000x1125-800x450.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "家扶中心DOC環境知識大挑戰擺攤成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7882-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7882-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "家扶中心DOC環境知識大挑戰擺攤成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7883-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7883-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "家扶中心DOC環境知識大挑戰擺攤成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7890-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7890-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "家扶中心DOC環境知識大挑戰擺攤成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7895-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7895-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "家扶中心DOC環境知識大挑戰擺攤成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7896-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7896-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "家扶中心DOC環境知識大挑戰擺攤成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-7898-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7898-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校內海洋知識PK賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-37-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-37-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校內海洋知識PK賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-44-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-44-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校內海洋知識PK賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-45-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-45-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校內海洋知識PK賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-46-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-46-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校內海洋知識PK賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-2760-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2760-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "校內海洋知識PK賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-2767-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2767-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內空氣品質漫畫著色比賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8578-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8578-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內空氣品質漫畫著色比賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8579-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8579-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內空氣品質漫畫著色比賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8580-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8580-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內空氣品質漫畫著色比賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8587-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8587-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內空氣品質漫畫著色比賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8604-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8604-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 校內空氣品質漫畫著色比賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-8612-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8612-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "  植物校園闖闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "  植物校園闖闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-11-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "  植物校園闖闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-29-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-29-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "  植物校園闖闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-51-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-51-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "  植物校園闖闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-71-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-71-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "  植物校園闖闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-9979-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9979-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "資源回收闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-78-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-78-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "資源回收闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-86-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-86-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "資源回收闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-114-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-114-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "資源回收闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-120-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-120-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "資源回收闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-163-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-163-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "資源回收闖關賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-170-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-170-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 運動闖關之資源回收九宮格賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-127-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-127-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 運動闖關之資源回收九宮格賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-129-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-129-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 運動闖關之資源回收九宮格賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-131-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-131-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 運動闖關之資源回收九宮格賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-133-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-133-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 運動闖關之資源回收九宮格賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-136-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-136-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": " 運動闖關之資源回收九宮格賽成果",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-139-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-139-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-15"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "&nbsp;風櫃國小三年級學校本位海洋教育課程計畫",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "風櫃國小四年級學校本位海洋教育課程計畫",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "風櫃國小五年級學校本位海洋教育課程計畫",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "相關成果檢討改進紀錄",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "年度執行成果檢討紀錄",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1hh58GcH9Q5XtkLWEGfrStQ_dvGVs1hoZ/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=19so7IS5ntmWPV41G1LdUawJqMjLyWJYx\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1neTvge7us6clJtIiiVf-L7b_4sjVZLH-\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1CyKDZOV0NorJFrtrCRPxluc_1y7E-R51\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-11"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "風櫃國小六年級學校本位海洋教育課程計畫─小小解說員培訓",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "&nbsp; 風櫃國小四、五、六年級學校本位海洋教育課程計畫(一)",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "風櫃國小四、五、六年級學校本位海洋教育課程計畫(二)",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "相關成果檢討改進紀錄",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "年度執行成果檢討紀錄",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/11cyWUfox_HcCEgwjZ-YYMxDVVO7FtDbQ/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/18GiH_s7Vd7tKdnMFxj78rN4jKQGmET9R/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1CyKDZOV0NorJFrtrCRPxluc_1y7E-R51\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-16"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "風櫃國小四、五、六年級學校本位海洋教育課程計畫(三)",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "&nbsp;海洋教育融入綜合領域課程教案",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "環境教育融入社會領域課程教案",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "相關成果檢討改進紀錄",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "年度執行成果檢討紀錄",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/11cyWUfox_HcCEgwjZ-YYMxDVVO7FtDbQ/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/18GiH_s7Vd7tKdnMFxj78rN4jKQGmET9R/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1CyKDZOV0NorJFrtrCRPxluc_1y7E-R51\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-17"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.4",
+            "googleMap": {
+              "address": "澎湖縣馬公市風櫃里66號",
+              "placeId": "ChIJjTkjMptQbDQRIsXgkbqrwTc",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>澎湖縣馬公市風櫃里66號<br><br><br>\n<strong>Contacts</strong><br>\nFb:https://www.facebook.com/penghufkps/<br>\nPhone: (06) 9951280<br><br>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-12"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/penghufkps/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC69TV3DEhH7MbRbWVWJRkPA?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-13"
+        }
+      ]
+    }
+  }
+}
