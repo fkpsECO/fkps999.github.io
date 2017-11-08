@@ -511,11 +511,11 @@ h6,
   color: #ffffff;
 }
 #menu-6 .link {
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 #menu-6 .dropdown-item,
 #menu-6 .nav-dropdown-sm .link {
-  font-size: 1.191rem;
+  font-size: 1.083rem;
 }
 #menu-6 .link:hover,
 #menu-6 .dropdown-item:hover,
@@ -592,11 +592,11 @@ h6,
   color: #ffffff;
 }
 #menu-b .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #menu-b .dropdown-item,
 #menu-b .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #menu-b .link:hover,
 #menu-b .dropdown-item:hover,
@@ -778,7 +778,13 @@ h6,
   background-color: #2e2e2e;
 }
 #features1-16 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+  background-color: #ffffff;
+}
+#features1-16 .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
+#features1-16 .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
 }
 #features1-17 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;

@@ -20,10 +20,12 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#292321"
+      ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 44,
+    "uniqCompNum": 45,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": ""
@@ -333,10 +335,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -427,26 +429,35 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9893-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9915-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -613,7 +624,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -637,10 +648,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -943,21 +954,88 @@
             "showBullets": true,
             "fullWidth": false,
             "spacing": "4",
-            "paddingTop": 4,
-            "paddingBottom": "4",
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "filterBgColor": false,
             "bgColor": "fff",
             "showText": true,
             "filter": true,
-            "images": []
+            "images": [
+              {
+                "tags": "風櫃國小106年環境教育—「校內獎勵表揚」",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-693x520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-693x520-693x520.jpg",
+                "alt": "",
+                "caption": "朝會表揚年度協辦環境教育人員",
+                "active": false
+              },
+              {
+                "tags": "風櫃國小106年環境教育—「校內獎勵表揚」",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-693x519.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-693x519-693x519.jpg",
+                "alt": "",
+                "caption": "運動會表揚學校環境志工媽媽",
+                "active": false
+              },
+              {
+                "tags": "風櫃國小106年環境教育—「校內獎勵表揚」",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/4-693x519.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-693x519-693x519.jpg",
+                "alt": "",
+                "caption": "表揚環境教育表現優良學童",
+                "active": false
+              },
+              {
+                "tags": "風櫃國小106年環境教育—「校內獎勵表揚」",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5-693x520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-693x520-693x520.jpg",
+                "alt": "",
+                "caption": "朝會班級整潔競賽頒獎",
+                "active": false
+              },
+              {
+                "tags": "風櫃國小106年環境教育—「校內獎勵表揚」",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/6-693x520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-693x520-693x520.jpg",
+                "alt": "",
+                "caption": "表揚水巡守隊",
+                "active": false
+              },
+              {
+                "tags": "風櫃國小106年環境教育—「校內獎勵表揚」",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-753x503.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-753x503-753x503.jpg",
+                "alt": "",
+                "caption": "表揚水巡守隊",
+                "active": true
+              }
+            ]
           },
           "_tags": [
             "Theme"
           ],
           "articleLayout": false,
           "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-y"
+          "_name": "gallery4",
+          "_anchor": "gallery4-18"
         },
         {
           "_params": {
@@ -1129,7 +1207,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2293,26 +2371,35 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20170712day3-170719-7-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20170710day1-170719-481-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20170712day3-170719-98-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -2381,7 +2468,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": true,
-            "columnsColor": "#2e2e2e",
+            "columnsColor": "#ffffff",
             "paddingTop": "4",
             "paddingBottom": "2",
             "columns": "3",
@@ -2389,7 +2476,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#292321",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2400,26 +2487,35 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9442-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9430-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9437-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -2464,9 +2560,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/11cyWUfox_HcCEgwjZ-YYMxDVVO7FtDbQ/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/18GiH_s7Vd7tKdnMFxj78rN4jKQGmET9R/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1_B4aFXYRjcOkbJrY1SjKBFqhilOrWvPh/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1Kf9aYFv4iBapOCq0hsq78tPZi83oBlQn/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/13MiMh-gba9ArbSo5BxSDeOrngFgK0Tqf/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1CyKDZOV0NorJFrtrCRPxluc_1y7E-R51\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2476,7 +2572,13 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
             }
           },
           "_anchor": "features1-16"
@@ -2507,26 +2609,35 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20170711-day2-170719-55-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1772-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1768-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -2571,9 +2682,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/11cyWUfox_HcCEgwjZ-YYMxDVVO7FtDbQ/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/18GiH_s7Vd7tKdnMFxj78rN4jKQGmET9R/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1ZVsMNGk7CO-B5FHWvm3g29zGK3cBP1id/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1TgE47O4LZVramQiFYodK-lJ5WK37ke5-/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1r_Q2TsUPtqOfDeh7q_n7MYe1BzAlzqxV/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1UrK8MgBURj2s0WbE2fSuWdaB0r6c4NOg/view?usp=sharing\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://drive.google.com/open?id=1CyKDZOV0NorJFrtrCRPxluc_1y7E-R51\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
