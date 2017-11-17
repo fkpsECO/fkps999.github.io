@@ -665,14 +665,14 @@ h6,
 #menu-z .link,
 #menu-z .dropdown-item {
   color: #ffffff;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-z .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #menu-z .dropdown-item,
 #menu-z .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #menu-z .link:hover,
 #menu-z .dropdown-item:hover,
